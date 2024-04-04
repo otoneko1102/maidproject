@@ -1,9 +1,4 @@
 @font-face {
-  font-family: 'KiwiMaru';
-  src: url('fonts/KiwiMaru-Regular.ttf') format('truetype');
-}
-
-@font-face {
   font-family: 'Kawamoji-main';
   src: url('fonts/SlacksideOne-Regular.ttf') format('truetype');
 }
@@ -17,11 +12,11 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'KiwiMaru', 'Kawamoji-main', 'Kawamoji-sub', sans-serif;
+  font-family: 'Kawamoji-main', 'Kawamoji-sub', sans-serif;
 }
 
 code {
-  font-family: 'KiwiMaru', 'Kawamoji-main', 'Kawamoji-sub', sans-serif;
+  font-family: 'Kawamoji-main', 'Kawamoji-sub', sans-serif;
   border-bottom: 2px solid #b8a800;
   background-color: #d9d9d9;
 }
@@ -187,12 +182,12 @@ img {
   padding: 20px;
   border-top: 1px solid #ccc;
   margin-top: 20px;
-  font-family: 'KiwiMaru', 'Kawamoji-main', 'Kawamoji-sub', sans-serif;
+  font-family: 'Kawamoji-main', 'Kawamoji-sub', sans-serif;
 }
 
 #external-links h2 {
   font-size: 18px;
-  font-family: 'KiwiMaru', 'Kawamoji-main', 'Kawamoji-sub', sans-serif;
+  font-family: 'Kawamoji-main', 'Kawamoji-sub', sans-serif;
 }
 
 #external-links ul {
@@ -218,7 +213,7 @@ img {
 #copyright {
   text-align: center;
   margin-top: 20px;
-  font-family: 'KiwiMaru', 'Kawamoji-main', 'Kawamoji-sub', sans-serif;
+  font-family: 'Kawamoji-main', 'Kawamoji-sub', sans-serif;
 }
 
 #secretButton {
